@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<body>
+    <br>
+    <h2> Videos Here: </h2>
+    <hr>
+</body>
+
+<div>
+    {% for video in videos %}
+	<video width="300" height="300" controls="true" >
+	<source src={{video.video.url}} type="video/mp4">
+	<b>{{video.title}}</b>
+	</video>
+	<br>
+    {% endfor %}
+</div>
+
+{% endblock %}
