@@ -21,3 +21,7 @@ OpenCV
 Raspberry Pi GPIO Ports
 
 Pulse-Width Modulation (PWM)
+
+Printed Circuit Board (PCB) 
+
+Circuit Analysis
