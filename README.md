@@ -10,7 +10,7 @@ The Raspberry Pi was mounted with a Pi Camera, two 12V motors, a motor driver, 1
 All to create the physical RC car named ClipCar.
 
 ## Software and Components
-Linux OS
+Ubuntu 18.04.6 LTS
 
 Django Framework: HTML, CSS, Javascript, REST API, and SQLite were used
 
