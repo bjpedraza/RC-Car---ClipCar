@@ -1,8 +1,8 @@
 # RC-Car---ClipCar
 This project used Django Framework to create a web application for an RC car that allows the user to connect and control the car with any smart device as long as the car and device are connect to the same network.
 
-I was able to create a user control and interface that provided virtual joystick control and an eye view of the RC car from the Pi Camera with the Django framework. 
-To control the RC car, users could send control signals via the network to the RC car (Raspberry Pi), enabling them to move it forward, backward, left, and right. 
+The project has a user control and interface that provides virtual joystick control and an eye view of the RC car from the Pi Camera using the Django framework. 
+To control the RC car, users could send control signals via the network to the RC car (Raspberry Pi), enabling them to move it forward, backward, left, and right with the desired speed and turn. 
 Additionally, users could capture screenshots or record videos from the RC car camera and store them in a database for later viewing or downloading from a webpage.
 
 
@@ -29,6 +29,4 @@ Pulse-Width Modulation (PWM)
 Printed Circuit Board (PCB) 
 
 Circuit Analysis
-
-## Addition
 
